@@ -1,0 +1,224 @@
+[
+  {
+    "slug": "health",
+    "name": "Health and Wellness",
+    "description": "Appointments, personal wellness notes and care routines.",
+    "kinds": [
+      "Appointment",
+      "Wellness check",
+      "Care routine"
+    ]
+  },
+  {
+    "slug": "family",
+    "name": "Family and Parenting",
+    "description": "Family milestones, school commitments and childcare plans.",
+    "kinds": [
+      "Family event",
+      "School activity",
+      "Childcare task"
+    ]
+  },
+  {
+    "slug": "finance",
+    "name": "Accounts and Finance",
+    "description": "Income, expenses, budgets and savings contributions.",
+    "kinds": [
+      "Income",
+      "Expense",
+      "Budget",
+      "Savings"
+    ],
+    "unit": "INR"
+  },
+  {
+    "slug": "work",
+    "name": "Work and Business",
+    "description": "Projects, client commitments and business follow-ups.",
+    "kinds": [
+      "Project",
+      "Client follow-up",
+      "Business task"
+    ]
+  },
+  {
+    "slug": "reminders",
+    "name": "Reminders and Recurring Payments",
+    "description": "EMIs, bills, subscriptions, renewals and scheduled alerts.",
+    "kinds": [
+      "EMI",
+      "Bill",
+      "Subscription",
+      "Renewal",
+      "Alert"
+    ],
+    "unit": "INR"
+  },
+  {
+    "slug": "safety",
+    "name": "Safety and Emergencies",
+    "description": "Emergency contacts, drills and preparedness checklists.",
+    "kinds": [
+      "Emergency contact",
+      "Safety check",
+      "Drill"
+    ]
+  },
+  {
+    "slug": "home",
+    "name": "Home and Household",
+    "description": "Chores, repairs and home maintenance.",
+    "kinds": [
+      "Chore",
+      "Repair",
+      "Maintenance"
+    ]
+  },
+  {
+    "slug": "food",
+    "name": "Food and Nutrition",
+    "description": "Meal plans, groceries and food logs.",
+    "kinds": [
+      "Meal plan",
+      "Groceries",
+      "Food log"
+    ]
+  },
+  {
+    "slug": "fitness",
+    "name": "Fitness and Sports",
+    "description": "Workouts, sports sessions and performance milestones.",
+    "kinds": [
+      "Workout",
+      "Sports session",
+      "Personal best"
+    ],
+    "unit": "minutes"
+  },
+  {
+    "slug": "career",
+    "name": "Career Development",
+    "description": "Job applications, interviews and professional milestones.",
+    "kinds": [
+      "Application",
+      "Interview",
+      "Career milestone"
+    ]
+  },
+  {
+    "slug": "learning",
+    "name": "Learning and Education",
+    "description": "Courses, study sessions and certifications.",
+    "kinds": [
+      "Course",
+      "Study session",
+      "Certification"
+    ],
+    "unit": "hours"
+  },
+  {
+    "slug": "goals",
+    "name": "Goals and Personal Growth",
+    "description": "Personal goals, habits and progress reviews.",
+    "kinds": [
+      "Goal",
+      "Habit",
+      "Progress review"
+    ]
+  },
+  {
+    "slug": "assets",
+    "name": "Assets and Property",
+    "description": "Property records, asset values and inspections.",
+    "kinds": [
+      "Property",
+      "Equipment",
+      "Valuation",
+      "Inspection"
+    ],
+    "unit": "INR"
+  },
+  {
+    "slug": "documents",
+    "name": "Documents and Legal Matters",
+    "description": "Document references, filings and expiry dates.",
+    "kinds": [
+      "Document",
+      "Filing",
+      "Expiry"
+    ]
+  },
+  {
+    "slug": "friends",
+    "name": "Friends and Relationships",
+    "description": "Catch-ups, important dates and relationship follow-ups.",
+    "kinds": [
+      "Catch-up",
+      "Birthday",
+      "Follow-up"
+    ]
+  },
+  {
+    "slug": "travel",
+    "name": "Travel and Transport",
+    "description": "Trips, bookings and vehicle upkeep.",
+    "kinds": [
+      "Trip",
+      "Booking",
+      "Vehicle service"
+    ],
+    "unit": "INR"
+  },
+  {
+    "slug": "mindfulness",
+    "name": "Spirituality and Mindfulness",
+    "description": "Yoga, meditation and reflection.",
+    "kinds": [
+      "Yoga",
+      "Meditation",
+      "Reflection"
+    ],
+    "unit": "minutes"
+  },
+  {
+    "slug": "community",
+    "name": "Social Life and Community",
+    "description": "Community events, volunteering and group activities.",
+    "kinds": [
+      "Community event",
+      "Volunteering",
+      "Group activity"
+    ]
+  },
+  {
+    "slug": "shopping",
+    "name": "Shopping and Lifestyle",
+    "description": "Wish lists, purchases and returns.",
+    "kinds": [
+      "Wish list",
+      "Purchase",
+      "Return"
+    ],
+    "unit": "INR"
+  },
+  {
+    "slug": "entertainment",
+    "name": "Entertainment and Hobbies",
+    "description": "Watchlists, hobbies and creative projects.",
+    "kinds": [
+      "Watchlist",
+      "Hobby session",
+      "Creative project"
+    ]
+  },
+  {
+    "slug": "memories",
+    "name": "Memories and Life History",
+    "description": "Journal entries, milestones and photo references.",
+    "kinds": [
+      "Journal entry",
+      "Milestone",
+      "Photo reference"
+    ]
+  }
+]
